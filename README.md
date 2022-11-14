@@ -1,0 +1,2 @@
+# pytorch-basics is a register of a course called "PyTorch Basics for Machine Learning" by IBM. I'll update this repository during the course, in order to make this a simple source of consultation.
+# pytorch-basics é um registro do curso chamado "PyTorch Fundamentos para Aprendizagem de Máquina" da IBM. Irei atualizar esse repositório durante o curso, de modo a fazer dele uma fonte simples de consulta.
